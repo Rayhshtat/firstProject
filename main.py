@@ -6,7 +6,7 @@ MAIL = "mark@mark.com"
 PASSWORD = "!234Qwer"
 IMAGE = os.getcwd()+"/3673909.jpg"
 
-#םמךט כםר אקדא
+
 
 def registration_screen(driver):
     # Press on button "כניסה| הרשמה"
