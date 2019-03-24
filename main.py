@@ -6,6 +6,8 @@ MAIL = "mark@mark.com"
 PASSWORD = "!234Qwer"
 IMAGE = os.getcwd()+"/3673909.jpg"
 
+#םמךט כםר אקדא
+
 def registration_screen(driver):
     # Press on button "כניסה| הרשמה"
     driver.find_element_by_xpath("//li[@data-ember-action='636']").click()
